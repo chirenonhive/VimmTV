@@ -11,3 +11,4 @@ VIMM is a Web3 video platform focused around live streaming for gamers and indep
 The codebase for VIMM is not currently open source. However, this repository will contain open source standalone tools that can be customized and used locally, or redistributed.
 
 ### [The VIMM Website](https://www.vimm.tv)
+### [Hive.io](https://hive.io)
